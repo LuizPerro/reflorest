@@ -234,7 +234,7 @@ font-weight:bold;
 .act_1 h1{
 color:#fff;
 font-weight:bold;
-font-size:60px;
+font-size:4rem;
 font-family: 'Londrina Shadow', cursive;
 letter-spacing:5px;  
   }
@@ -476,7 +476,7 @@ margin-top:40px;
   text-align:center;
   }
 .hero h1{
-font-size:40px;
+font-size: 7rem;
   }
 .hero h3{
 font-size:18px;
@@ -563,7 +563,11 @@ font-size:18px;
 .partners_1 .news_home_1_inner h3{
 font-size:18px; 
  }
+ .act_1 h1 {
+  font-size: 6rem;
  }
+ }
+
 @media (min-width:1201px) and (max-width:1315px) {
 
  }
